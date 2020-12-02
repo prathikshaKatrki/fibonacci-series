@@ -1,0 +1,12 @@
+f=100
+i=0
+j=1
+count=0
+while count<f:
+	print(i)
+	nth=i+j
+	i=j
+	j=nth
+	count+=1
+
+	
